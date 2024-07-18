@@ -56,10 +56,6 @@ h1 {
   height: calc(100vh - var(--navbar-height));
 }
 
-#buttonInstall.hidden {
-  display: none;
-}
-
 @keyframes rotate-forever {
   0% {
     transform: rotate(0deg);
@@ -197,11 +193,7 @@ h1 {
 }
 
 @media only screen and (max-width: 600px) {
-  .nav-btn {
-    display: none;
-  }
-
-  .navbar-brand {
+  .nav-btn .navbar-brand {
     display: none;
   }
 
@@ -212,4 +204,8 @@ h1 {
   h1 {
     font-size: 18px;
   }
+}
+
+.hidden {
+  display: none
 }
