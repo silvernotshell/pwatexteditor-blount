@@ -1,4 +1,4 @@
-pwatexteditor-blount
+# pwatexteditor-blount
 
 **Description:** A single-page application text editor that runs in the browser and offline.
 
