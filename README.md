@@ -31,4 +31,6 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render<br>
 THEN I should have proper build scripts for a webpack application<br>
 
+**Screenshot:** ![image](https://github.com/user-attachments/assets/f8ff5671-c5e0-46d2-bd5d-4eb992811832)
+
 **Link:** https://silvernotshell.github.io/pwatexteditor-blount/
